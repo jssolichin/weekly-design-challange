@@ -1,0 +1,2393 @@
+{
+    "lens_id": "",
+    "document_id": "ftRi25j_83Cpb6Urhqxq",
+    "original_document_id": "7F0qlx05QaicZ3LuEfmy",
+    "version": "2",
+    "lastChanged": "1548121773808",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "2L bottle"
+                    ],
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base_2"
+                    ],
+                    [
+                        "Default Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Materials",
+                        "Soda Material"
+                    ],
+                    [
+                        "Materials",
+                        "bread-material"
+                    ],
+                    [
+                        "Materials",
+                        "bucket"
+                    ],
+                    [
+                        "Materials",
+                        "bucket-handle"
+                    ],
+                    [
+                        "Materials",
+                        "bucket-water"
+                    ],
+                    [
+                        "Materials",
+                        "cheese"
+                    ],
+                    [
+                        "Materials",
+                        "patty"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Animations"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "CHAHIN_BOTTLE_OF_SODA"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Materials"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Materials",
+                        "Material.026"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Meshes",
+                        "Cube.019_Cube.029"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Textures"
+                    ],
+                    [
+                        "Models",
+                        "CHAHIN_BOTTLE_OF_SODA",
+                        "Textures",
+                        "CHAHIN_BOTTLE_OF_SODA_TEXTURE"
+                    ],
+                    [
+                        "Models",
+                        "Plane"
+                    ],
+                    [
+                        "Models",
+                        "bucket"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Animations"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_14___26851.004"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_21___26851"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_21___26851.005"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_23___26851.002"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_23___26851.003"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Materials",
+                        "material_23___26851.004"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "Cylinder"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284_2"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284_3"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284_4"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284_5"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Meshes",
+                        "mesh_2107099284_6"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "Textures"
+                    ],
+                    [
+                        "Models",
+                        "bucket",
+                        "bucket_2"
+                    ],
+                    [
+                        "Models",
+                        "burger"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Animations"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Materials"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Meshes",
+                        "Cube"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Meshes",
+                        "Cylinder"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Meshes",
+                        "Sphere"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Meshes",
+                        "Sphere.001"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "Textures"
+                    ],
+                    [
+                        "Models",
+                        "burger",
+                        "burger"
+                    ],
+                    [
+                        "Outputs"
+                    ],
+                    [
+                        "Outputs",
+                        "Camera Output"
+                    ],
+                    [
+                        "Outputs",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Outputs",
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BucketController"
+                    ],
+                    [
+                        "Scripts",
+                        "Button"
+                    ],
+                    [
+                        "Scripts",
+                        "MainController"
+                    ],
+                    [
+                        "Scripts",
+                        "SceneManager"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "bread-icon"
+                    ],
+                    [
+                        "Textures",
+                        "bucket-info"
+                    ],
+                    [
+                        "Textures",
+                        "cheese-icon"
+                    ],
+                    [
+                        "Textures",
+                        "header"
+                    ],
+                    [
+                        "Textures",
+                        "logo"
+                    ],
+                    [
+                        "Textures",
+                        "meat-icon"
+                    ],
+                    [
+                        "Textures",
+                        "soda-info"
+                    ],
+                    [
+                        "Textures",
+                        "tap-instruction"
+                    ],
+                    [
+                        "Textures",
+                        "use-rear-instruction"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "bucket-prefab"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1548028099633024:153418",
+                    "1548028099638388:153467",
+                    "1548029245599234:173685",
+                    "1548098971386252:334427",
+                    "1548101385038076:9564611",
+                    "1548101861962500:11700575",
+                    "1548109162601777:998488"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "0d5ea4d69eb7ebed164ad52c5addec91",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "The Water We Eat",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1548024682401330:1838",
+                    "name": "\/Resources\/Resource16.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1548024682402881:1847",
+                    "name": "\/Resources\/Resource17.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1548024682403207:1856",
+                    "name": "\/Resources\/Resource18.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1548024682403775:1865",
+                    "name": "\/Resources\/Resource19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1548024682405851:1917",
+                    "name": "\/Resources\/Resource20",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/burger.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1548024702499618:2423",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1548024702501275:2435",
+                    "name": "\/Resources\/Resource22.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1548024702502889:2447",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1548024702504913:2459",
+                    "name": "\/Resources\/Resource24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1548024714078896:2554",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1548024786392965:4519",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1548024944322164:5992",
+                    "name": "\/Resources\/Resource27.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1548024944322446:6004",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1548024944322654:6016",
+                    "name": "\/Resources\/Resource29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1548024944339469:6088",
+                    "name": "\/Resources\/Resource35.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1548024944348023:6112",
+                    "name": "\/Resources\/Resource37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1548024944350374:6124",
+                    "name": "\/Resources\/Resource38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1548024944351031:6136",
+                    "name": "\/Resources\/Resource39.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/GenericTween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1548024944351385:6148",
+                    "name": "\/Resources\/Resource40.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/TweenChain.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1548026358450946:123706",
+                    "name": "\/Resources\/Resource46.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1548026367199035:125690",
+                    "name": "\/Resources\/Resource51",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1548027195486144:137435",
+                    "name": "\/Resources\/Resource67",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1548027236711415:138150",
+                    "name": "\/Resources\/Resource68",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1548027357710999:139776",
+                    "name": "\/Resources\/Resource69",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1548028099339540:153118",
+                    "name": "\/Resources\/Resource70.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1548028099341391:153127",
+                    "name": "\/Resources\/Resource71.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1548028099341727:153136",
+                    "name": "\/Resources\/Resource72.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1548028099342095:153145",
+                    "name": "\/Resources\/Resource73.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1548028099342426:153154",
+                    "name": "\/Resources\/Resource74.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1548028099342993:153163",
+                    "name": "\/Resources\/Resource75.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1548028099343308:153172",
+                    "name": "\/Resources\/Resource76.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1548028099344233:153189",
+                    "name": "\/Resources\/Resource77",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1548028099389166:153209",
+                    "name": "\/Resources\/Resource78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1548028099435725:153230",
+                    "name": "\/Resources\/Resource79",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1548028099485884:153252",
+                    "name": "\/Resources\/Resource80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1548028099535135:153275",
+                    "name": "\/Resources\/Resource81",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1548028099586377:153299",
+                    "name": "\/Resources\/Resource82",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1548028099632008:153368",
+                    "name": "\/Resources\/Resource83",
+                    "sourceFilePath": "\/Users\/jssolichin\/bucket.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1548029164064395:159729",
+                    "name": "\/Resources\/Resource85.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1548029934693532:198068",
+                    "name": "\/Resources\/Resource90",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1548053244742998:5686894",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/bread-icon.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "95",
+                    "uid": "1548053248225829:5686906",
+                    "name": "\/Resources\/Resource95.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/cheese-icon.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1548053249722139:5686918",
+                    "name": "\/Resources\/Resource97.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1548053249804845:5686930",
+                    "name": "\/Resources\/Resource98.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/meat-icon.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "99",
+                    "uid": "1548053283335079:5686942",
+                    "name": "\/Resources\/Resource99.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/bucket.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1548053283383014:5686954",
+                    "name": "\/Resources\/Resource100.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/header.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "105",
+                    "uid": "1548053315005318:5747892",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1548053872987271:7031837",
+                    "name": "\/Resources\/Resource110",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1548054165650550:8133221",
+                    "name": "\/Resources\/Resource110",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1548054216674040:8335251",
+                    "name": "\/Resources\/Resource110",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "116",
+                    "uid": "1548054980228952:10040710",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "118",
+                    "uid": "1548055345090451:10648721",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "120",
+                    "uid": "1548056335666842:12467240",
+                    "name": "\/Resources\/Resource120.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "122",
+                    "uid": "1548098971263370:334368",
+                    "name": "\/Resources\/Resource122.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "123",
+                    "uid": "1548098971264166:334377",
+                    "name": "\/Resources\/Resource123.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "124",
+                    "uid": "1548098971267425:334389",
+                    "name": "\/Resources\/Resource124",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "125",
+                    "uid": "1548098971383436:334412",
+                    "name": "\/Resources\/Resource125",
+                    "sourceFilePath": "\/Users\/jssolichin\/Downloads\/CHAHIN_BOTTLE_OF_SODA_obj_2w4Av7jJ2_B_0gpu_xYBHQs\/CHAHIN_BOTTLE_OF_SODA.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "128",
+                    "uid": "1548099017994992:365472",
+                    "name": "\/Resources\/Resource128",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "129",
+                    "uid": "1548099017997382:365484",
+                    "name": "\/Resources\/Resource129.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "130",
+                    "uid": "1548099183998977:443249",
+                    "name": "\/Resources\/Resource130",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "133",
+                    "uid": "1548100131146431:2226216",
+                    "name": "\/Resources\/Resource133.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/soda.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1548100143735331:2226386",
+                    "name": "\/Resources\/Resource105",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1548100625625885:5829384",
+                    "name": "\/Resources\/Resource135.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1548101861977626:11700670",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "140",
+                    "uid": "1548101862032730:11700813",
+                    "name": "\/Resources\/Resource140",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1548101875016693:11880731",
+                    "name": "\/Resources\/Resource141.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/tap-instruction.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1548109072696653:464778",
+                    "name": "\/Resources\/Resource142.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1548109372603360:3254464",
+                    "name": "\/Resources\/Resource140",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1548109418633511:3432917",
+                    "name": "\/Resources\/Resource145.png",
+                    "sourceFilePath": "\/Users\/jssolichin\/Desktop\/bread-assets\/use-rear-instruction.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1548024682407106:1954",
+                "4": "1548024682407671:1964",
+                "5": "1548024682408751:1994",
+                "6": "1548024682409820:2024",
+                "7": "1548024682410998:2054",
+                "8": "1548024944316498:5508",
+                "9": "1548025242705107:9538",
+                "10": "1548025250804206:9906",
+                "11": "1548025256651764:9915",
+                "12": "1548025256833985:10255",
+                "13": "1548026358446962:123700",
+                "14": "1548028397281891:158530",
+                "15": "1548053314992035:5747873",
+                "16": "1548053810355474:6891854",
+                "17": "1548053828527692:6951272",
+                "18": "1548054165649740:8133115",
+                "19": "1548054216673700:8335145",
+                "20": "1548054980226188:10040556",
+                "21": "1548055345089228:10648615",
+                "22": "1548055888333892:11428098",
+                "23": "1548099191896065:443387",
+                "24": "1548100143733860:2226277",
+                "25": "1548101861962500:11700575",
+                "26": "1548101861977786:11700679",
+                "27": "1548101861978005:11700682",
+                "28": "1548109057808602:375831",
+                "29": "1548109162601777:998488",
+                "30": "1548109372603063:3254355",
+                "31": "1548109372603083:3254358",
+                "32": "1548109793709884:4433960"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Default Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "8",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base",
+                                "resourceId": "22",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "resourceId": "23",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "24",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base_2",
+                                "resourceId": "129",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "resourceId": "28",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "resourceId": "35",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "37",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBillboard",
+                                        "resourceId": "38",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "resourceId": "39",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "resourceId": "40",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "27",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TweenManager",
+                                "resourceId": "29",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "cheese",
+                                "resourceId": "21",
+                                "extension": ""
+                            },
+                            {
+                                "name": "bread-material",
+                                "resourceId": "25",
+                                "extension": ""
+                            },
+                            {
+                                "name": "patty",
+                                "resourceId": "26",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Matte Shadow",
+                                "resourceId": "51",
+                                "extension": ""
+                            },
+                            {
+                                "name": "bucket",
+                                "resourceId": "67",
+                                "extension": ""
+                            },
+                            {
+                                "name": "bucket-handle",
+                                "resourceId": "68",
+                                "extension": ""
+                            },
+                            {
+                                "name": "bucket-water",
+                                "resourceId": "69",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Soda Material",
+                                "resourceId": "128",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Outputs",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Orthographic Camera Output",
+                                "resourceId": "138",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "bread-icon",
+                                "resourceId": "93",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "cheese-icon",
+                                "resourceId": "95",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "logo",
+                                "resourceId": "97",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "meat-icon",
+                                "resourceId": "98",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "bucket-info",
+                                "resourceId": "99",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "header",
+                                "resourceId": "100",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "soda-info",
+                                "resourceId": "133",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "tap-instruction",
+                                "resourceId": "141",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "use-rear-instruction",
+                                "resourceId": "145",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "BucketController",
+                                "resourceId": "85",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "MainController",
+                                "resourceId": "120",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Button",
+                                "resourceId": "135",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "SceneManager",
+                                "resourceId": "142",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "groups": [
+                            {
+                                "name": "burger",
+                                "isImportedRoot": "true",
+                                "groups": [
+                                    {
+                                        "name": "Textures",
+                                        "groups": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Meshes",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "Sphere",
+                                                "resourceId": "16",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "Sphere.001",
+                                                "resourceId": "17",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "Cylinder",
+                                                "resourceId": "18",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "Cube",
+                                                "resourceId": "19",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": ""
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "burger",
+                                        "resourceId": "20",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "bucket",
+                                "isImportedRoot": "true",
+                                "groups": [
+                                    {
+                                        "name": "Textures",
+                                        "groups": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "material_21___26851.005",
+                                                "resourceId": "77",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "material_21___26851",
+                                                "resourceId": "78",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "material_14___26851.004",
+                                                "resourceId": "79",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "material_23___26851.002",
+                                                "resourceId": "80",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "material_23___26851.004",
+                                                "resourceId": "81",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "material_23___26851.003",
+                                                "resourceId": "82",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Meshes",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "mesh_2107099284",
+                                                "resourceId": "70",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "mesh_2107099284_2",
+                                                "resourceId": "71",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "mesh_2107099284_3",
+                                                "resourceId": "72",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "mesh_2107099284_4",
+                                                "resourceId": "73",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "mesh_2107099284_5",
+                                                "resourceId": "74",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "mesh_2107099284_6",
+                                                "resourceId": "75",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "Cylinder",
+                                                "resourceId": "76",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": ""
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "bucket_2",
+                                        "resourceId": "83",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "CHAHIN_BOTTLE_OF_SODA",
+                                "isImportedRoot": "true",
+                                "groups": [
+                                    {
+                                        "name": "Textures",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "CHAHIN_BOTTLE_OF_SODA_TEXTURE",
+                                                "resourceId": "122",
+                                                "extension": "jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "Material.026",
+                                                "resourceId": "124",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Meshes",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "Cube.019_Cube.029",
+                                                "resourceId": "123",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "isReadOnly": "true",
+                                        "groups": "",
+                                        "resources": ""
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "CHAHIN_BOTTLE_OF_SODA",
+                                        "resourceId": "125",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Plane",
+                                "resourceId": "46",
+                                "extension": "mesh"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "bucket-prefab",
+                        "resourceId": "90",
+                        "extension": ""
+                    },
+                    {
+                        "name": "2L bottle",
+                        "resourceId": "130",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Default Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Default Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "16",
+                    "path": "Models\/burger\/Meshes\/Sphere.mesh"
+                },
+                {
+                    "id": "17",
+                    "path": "Models\/burger\/Meshes\/Sphere.001.mesh"
+                },
+                {
+                    "id": "18",
+                    "path": "Models\/burger\/Meshes\/Cylinder.mesh"
+                },
+                {
+                    "id": "19",
+                    "path": "Models\/burger\/Meshes\/Cube.mesh"
+                },
+                {
+                    "id": "22",
+                    "path": "Default Textures\/Base.png"
+                },
+                {
+                    "id": "23",
+                    "path": "Default Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "24",
+                    "path": "Default Textures\/Normal.png"
+                },
+                {
+                    "id": "27",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "28",
+                    "path": "Tween\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "29",
+                    "path": "Tween\/TweenManager.js"
+                },
+                {
+                    "id": "35",
+                    "path": "Tween\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "37",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "38",
+                    "path": "Tween\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "39",
+                    "path": "Tween\/TweenTypes\/TweenValue.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Tween\/TweenTypes\/TweenChain.js"
+                },
+                {
+                    "id": "46",
+                    "path": "Models\/Plane.mesh"
+                },
+                {
+                    "id": "70",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284.mesh"
+                },
+                {
+                    "id": "71",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284_2.mesh"
+                },
+                {
+                    "id": "72",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284_3.mesh"
+                },
+                {
+                    "id": "73",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284_4.mesh"
+                },
+                {
+                    "id": "74",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284_5.mesh"
+                },
+                {
+                    "id": "75",
+                    "path": "Models\/bucket\/Meshes\/mesh_2107099284_6.mesh"
+                },
+                {
+                    "id": "76",
+                    "path": "Models\/bucket\/Meshes\/Cylinder.mesh"
+                },
+                {
+                    "id": "85",
+                    "path": "Scripts\/BucketController.js"
+                },
+                {
+                    "id": "93",
+                    "path": "Textures\/bread-icon.png"
+                },
+                {
+                    "id": "95",
+                    "path": "Textures\/cheese-icon.png"
+                },
+                {
+                    "id": "97",
+                    "path": "Textures\/logo.png"
+                },
+                {
+                    "id": "98",
+                    "path": "Textures\/meat-icon.png"
+                },
+                {
+                    "id": "99",
+                    "path": "Textures\/bucket-info.png"
+                },
+                {
+                    "id": "100",
+                    "path": "Textures\/header.png"
+                },
+                {
+                    "id": "120",
+                    "path": "Scripts\/MainController.js"
+                },
+                {
+                    "id": "122",
+                    "path": "Models\/CHAHIN_BOTTLE_OF_SODA\/Textures\/CHAHIN_BOTTLE_OF_SODA_TEXTURE.jpg"
+                },
+                {
+                    "id": "123",
+                    "path": "Models\/CHAHIN_BOTTLE_OF_SODA\/Meshes\/Cube.019_Cube.029.mesh"
+                },
+                {
+                    "id": "129",
+                    "path": "Default Textures\/Base_2.png"
+                },
+                {
+                    "id": "133",
+                    "path": "Textures\/soda-info.png"
+                },
+                {
+                    "id": "135",
+                    "path": "Scripts\/Button.js"
+                },
+                {
+                    "id": "141",
+                    "path": "Textures\/tap-instruction.png"
+                },
+                {
+                    "id": "142",
+                    "path": "Scripts\/SceneManager.js"
+                },
+                {
+                    "id": "145",
+                    "path": "Textures\/use-rear-instruction.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1548024682407106:1954",
+                        "v": {
+                            "prefab": "1548024682405851:1917",
+                            "isActive": "false",
+                            "mapping": [
+                                {
+                                    "k": "1548024682405415:1879",
+                                    "v": "1548024682407106:1954"
+                                },
+                                {
+                                    "k": "1548024682405465:1882",
+                                    "v": "1548024682407671:1964"
+                                },
+                                {
+                                    "k": "1548024682405475:1885",
+                                    "v": "1548024682407924:1968"
+                                },
+                                {
+                                    "k": "1548024682405560:1888",
+                                    "v": "1548024682408751:1994"
+                                },
+                                {
+                                    "k": "1548024682405576:1891",
+                                    "v": "1548024682409010:1998"
+                                },
+                                {
+                                    "k": "1548024682405617:1894",
+                                    "v": "1548024682409820:2024"
+                                },
+                                {
+                                    "k": "1548024682405631:1897",
+                                    "v": "1548024682410077:2028"
+                                },
+                                {
+                                    "k": "1548024682405662:1900",
+                                    "v": "1548024682410998:2054"
+                                },
+                                {
+                                    "k": "1548024682405676:1903",
+                                    "v": "1548024682411282:2058"
+                                },
+                                {
+                                    "k": "1548024682405710:1906",
+                                    "v": "1548024682412312:2084"
+                                },
+                                {
+                                    "k": "1548024682405721:1909",
+                                    "v": "1548024682412586:2088"
+                                },
+                                {
+                                    "k": "1548024682405773:1912",
+                                    "v": "1548024682413599:2104"
+                                },
+                                {
+                                    "k": "1548024682405803:1915",
+                                    "v": "1548024682413886:2108"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1548023328017979:1593",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1548023328017922:1585"
+                        },
+                        {
+                            "k": [
+                                "Cube.018_Cube.028"
+                            ],
+                            "v": "1548023328017933:1588"
+                        },
+                        {
+                            "k": [
+                                "Cube.018_Cube.028",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548023328017937:1591"
+                        }
+                    ]
+                },
+                {
+                    "k": "1548024682405851:1917",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1548024682405415:1879"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1548024682405773:1912"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1548024682405803:1915"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1548024682405465:1882"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548024682405475:1885"
+                        },
+                        {
+                            "k": [
+                                "Cylinder"
+                            ],
+                            "v": "1548024682405560:1888"
+                        },
+                        {
+                            "k": [
+                                "Cylinder",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548024682405576:1891"
+                        },
+                        {
+                            "k": [
+                                "Lamp"
+                            ],
+                            "v": "1548024682405710:1906"
+                        },
+                        {
+                            "k": [
+                                "Lamp",
+                                "Component.LightSource"
+                            ],
+                            "v": "1548024682405721:1909"
+                        },
+                        {
+                            "k": [
+                                "Sphere"
+                            ],
+                            "v": "1548024682405662:1900"
+                        },
+                        {
+                            "k": [
+                                "Sphere",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548024682405676:1903"
+                        },
+                        {
+                            "k": [
+                                "Sphere.001"
+                            ],
+                            "v": "1548024682405617:1894"
+                        },
+                        {
+                            "k": [
+                                "Sphere.001",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548024682405631:1897"
+                        }
+                    ]
+                },
+                {
+                    "k": "1548027185093519:135984",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1548027185093118:135943"
+                        },
+                        {
+                            "k": [
+                                "group_353526419"
+                            ],
+                            "v": "1548027185093152:135946"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_1351099362"
+                            ],
+                            "v": "1548027185093247:135955"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_1351099362",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093266:135958"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_1519856103"
+                            ],
+                            "v": "1548027185093314:135961"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_1519856103",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093323:135964"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2083556447"
+                            ],
+                            "v": "1548027185093345:135967"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2083556447",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093352:135970"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2107099284"
+                            ],
+                            "v": "1548027185093160:135949"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2107099284",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093168:135952"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_696316973"
+                            ],
+                            "v": "1548027185093373:135973"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_696316973",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093380:135976"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_721335139"
+                            ],
+                            "v": "1548027185093407:135979"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_721335139",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548027185093416:135982"
+                        }
+                    ]
+                },
+                {
+                    "k": "1548028099632008:153368",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1548028099631793:153324"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1548028099631947:153363"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1548028099631950:153366"
+                        },
+                        {
+                            "k": [
+                                "Cylinder"
+                            ],
+                            "v": "1548028099631809:153327"
+                        },
+                        {
+                            "k": [
+                                "Cylinder",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548028099631813:153330"
+                        },
+                        {
+                            "k": [
+                                "Lamp"
+                            ],
+                            "v": "1548028099631921:153357"
+                        },
+                        {
+                            "k": [
+                                "Lamp",
+                                "Component.LightSource"
+                            ],
+                            "v": "1548028099631926:153360"
+                        },
+                        {
+                            "k": [
+                                "group_353526419"
+                            ],
+                            "v": "1548028099631843:153333"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2107099284"
+                            ],
+                            "v": "1548028099631848:153336"
+                        },
+                        {
+                            "k": [
+                                "group_353526419",
+                                "mesh_2107099284",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548028099631908:153354"
+                        }
+                    ]
+                },
+                {
+                    "k": "1548098971383436:334412",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1548098971383377:334404"
+                        },
+                        {
+                            "k": [
+                                "Cube.019_Cube.029"
+                            ],
+                            "v": "1548098971383388:334407"
+                        },
+                        {
+                            "k": [
+                                "Cube.019_Cube.029",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1548098971383401:334410"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
